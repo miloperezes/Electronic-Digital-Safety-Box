@@ -48,7 +48,7 @@ PORTA.B0 = 1;  // Activate DC motor for unlocking
 PORTA.B2 = 1;  // Activate buzzer
 ```
 
-###Instructions
+#### Instructions
 
 Setup:
 
