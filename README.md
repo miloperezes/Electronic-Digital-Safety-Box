@@ -69,5 +69,5 @@ Operation:
 - If the incorrect code is entered, the buzzer will sound, and the system will lock after 3 failed attempts.
 
 ### Proteus Circuit 
-![Proteus Circuit](proteus_circuit_safetybox.png)
+![Proteus Circuit](proteus_circuit.png)
 
