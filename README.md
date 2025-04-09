@@ -52,18 +52,20 @@ PORTA.B2 = 1;  // Activate buzzer
 
 Setup:
 
-Connect the PIC16F877A microcontroller to the components as per the circuit diagram.
+- Connect the PIC16F877A microcontroller to the components as per the circuit diagram.
 
-Upload the MikroC code to the microcontroller using a programmer (e.g., PICkit 3).
+- Upload the MikroC code to the microcontroller using a programmer (e.g., PICkit 3).
 
 Operation:
 
-Power on the system.
+- Power on the system.
 
-Enter the passcode on the keypad.
+- Enter the passcode on the keypad.
 
-The LCD will display either "Access Granted" or "Access Denied."
+- The LCD will display either "Access Granted" or "Access Denied."
 
-If the correct code is entered, the motor will unlock the safety box, and the buzzer will beep.
+- If the correct code is entered, the motor will unlock the safety box, and the buzzer will beep.
 
-If the incorrect code is entered, the buzzer will sound, and the system will lock after 3 failed attempts.
+- If the incorrect code is entered, the buzzer will sound, and the system will lock after 3 failed attempts.
+
+### Proteus and Kicad Screenshots
