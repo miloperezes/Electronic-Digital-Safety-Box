@@ -46,6 +46,8 @@ kp = Keypad_Key_Click(); // Captures key press
 EEPROM_Write(0x00, code1[0]);  // Write to EEPROM address 0
 PORTA.B0 = 1;  // Activate DC motor for unlocking
 PORTA.B2 = 1;  // Activate buzzer
+```
+
 Instructions
 Setup:
 
